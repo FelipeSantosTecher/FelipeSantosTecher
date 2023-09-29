@@ -14,6 +14,6 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeHitsu&theme=dark&show_icons=true)](https://github.com/FelipeHitsu/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHitsu&hide=html,ShaderLab&layout=compact&theme=dark&show_icons=true)](https://github.com/FelipeHitsu/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSantosTecher&theme=dark&show_icons=true)](https://github.com/FelipeSantosTecher/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantosTecher&hide=html,ShaderLab&layout=compact&theme=dark&show_icons=true)](https://github.com/FelipeSantosTecher/github-readme-stats)
 
 ##### Thank you visiter, comeback soon.
